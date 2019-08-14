@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Dropfin_Fbconnect",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Facebook Connect",
+    "authors": [
+    {
+        "name": "Dropfin",
+        "email": "t.balamani88@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
