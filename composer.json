@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Dropfin_Fbconnect",
+    "name": "openmage-module-fostering\/dropfin_fbconnect",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Facebook Connect",
     "authors": [
